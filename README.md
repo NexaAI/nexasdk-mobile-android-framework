@@ -1,2 +1,1 @@
-# TestMaven
-TestMaven
+Nexa Android SDK
